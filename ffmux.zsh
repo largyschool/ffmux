@@ -4,6 +4,8 @@
 # Script	: ffmux.zsh
 # Options	: see help
 #
+# gitHub: satisfactory modifications made
+#
 # DESCRIPTION:
 # Add (mux) an audio file containing one audio stream with another file containing both video, audio and/or subtitles.
 #
