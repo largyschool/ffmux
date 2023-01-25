@@ -1,3 +1,0 @@
-a temporary file used to test something
-
-and not part of the project.
