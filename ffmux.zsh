@@ -33,6 +33,12 @@ progname=$(basename $0)
 DEBUG_DIR="$HOME"
 
 
+if [[ "$1" == "--git" ]] || [[ "$1" == "-git" ]]; then
+	echo "Github merge 1\n"
+	exit 0
+fi
+
+
 if [[ "$1" == "--help" ]] || [[ "$1" == "-help" ]]; then
 	echo "$progname: --help\n"
 cat <<!!
