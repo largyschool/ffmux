@@ -24,8 +24,9 @@
 # 2/1/23	Added "-info" and "-help" options.
 # 20/1/23	Added "-debug" and logs.
 # 7/2/23	Add arg 1 documentation @ 20.57
+# 9/2/23	Add line documentation
 #
-#		Last modified: 7/2/23-20.57
+#		Last modified: 9/2/23-14.59
 #
 # 
 # http://youtube.com/greenflarevideos (October 2022) 
