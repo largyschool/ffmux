@@ -1,3 +1,5 @@
 # file to be processed
 ff-01.mp3
 ff-02.mp3
+ff-03.mp3
+ff-04.mp3
